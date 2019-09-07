@@ -2,7 +2,7 @@ title:              CS Tutorilas Hub
 email:              cstutorialshub@gmail.com
 description:        Computer Science Tutorials Hub
 author:             Narendra Kangralkar
-baseurl:            "/cstutorialshub.github.io"
+#baseurl:            "/cstutorialshub.github.io"
 url:                "https://cstutorialshub.github.io"
 
 # Social Profiles
